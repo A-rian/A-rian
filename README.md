@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:163d70,100:357abd&height=190&section=header&text=Arian%20Mahlooji&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Software%20Development%20%7C%20AI%20Applications%20%7C%20Data%20Science&descAlignY=58&descSize=16" width="100%" alt="Arian Mahlooji — Software Development, AI Applications, Data Science" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:163d70,100:357abd&height=190&section=header&text=Arian%20Mahlooji&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Full--stack%20Developer%20%7C%20AI%20Applications%20%7C%20Data%20Science&descAlignY=58&descSize=16" width="100%" alt="Arian Mahlooji — Full-stack Developer, AI Applications, Data Science" />
 
 <p align="center">
   <strong>University of Toronto</strong><br/>
@@ -13,14 +13,14 @@
 
 ## About
 
-I build Java and Python applications with an emphasis on **clean architecture, algorithm design, and automated testing**. My work spans AI-assisted circuit generation, game simulation, and reproducible data analysis.
+I'm a **Full-stack Developer** and University of Toronto student, with a focus on **clean architecture, algorithm design, and automated testing**. My project experience spans Java and Python applications, AI-assisted circuit generation, game simulation, and reproducible data analysis.
 
-My development interests center on **backend engineering, API integration, and full-stack applications**, supported by hands-on experience with domain logic, validation, desktop interfaces, and data workflows. I'm currently developing the AI circuit-builder use case for **LogiCoach**, connecting natural-language circuit designs with simulation and truth-table verification.
+I'm interested in **backend engineering and API integration**, building on hands-on experience with domain logic, validation, desktop interfaces, and data workflows. I'm currently developing the AI circuit-builder use case for **LogiCoach**, connecting natural-language circuit designs with simulation and truth-table verification.
 
 ## Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,r,git,github,maven&theme=dark&perline=6" height="64" alt="Java, Python, R, Git, GitHub, Maven" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,r,git,github,maven&theme=dark&perline=7" height="64" alt="Java, Python, C, R, Git, GitHub, Maven" />
 </p>
 
 <p align="center">
@@ -32,8 +32,9 @@ My development interests center on **backend engineering, API integration, and f
   <img src="https://img.shields.io/badge/dplyr-1A6F8A?style=for-the-badge" alt="dplyr" />
 </p>
 
+**Languages:** Java · Python · C · R · SQL basics  
 **Engineering:** Object-oriented design · Data structures & algorithms · JSON processing · Unit & property-based testing  
-**Applications & data:** Swing · Heuristic search · Statistical analysis · SQL basics · Quarto
+**Applications & data:** Swing · Heuristic search · Statistical analysis · Quarto
 
 ## Featured projects
 
@@ -90,12 +91,6 @@ Reproducible analysis of healthcare utilization: data cleaning, transformation, 
   </a>
   <a href="https://github.com/A-rian">
     <img width="49%" src="https://streak-stats.demolab.com?user=A-rian&theme=tokyonight&hide_border=true" alt="Arian's contribution streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/A-rian?tab=repositories">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-rian&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Languages across Arian's public repositories" />
   </a>
 </p>
 
