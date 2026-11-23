@@ -1,80 +1,101 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=220&section=header&text=Arian&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=From%20game%20trees%20to%20desktop%20applications&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Arian — From game trees to desktop applications" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:163d70,100:357abd&height=200&section=header&text=Arian%20Mahlooji&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Computer%20Science%20%7C%20Software%20Development%20%7C%20Data%20Analysis&descAlignY=58&descSize=16" width="100%" alt="Arian Mahlooji — Computer Science, Software Development, Data Analysis" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+with+Python+and+Java;Exploring+game+AI+and+recursive+algorithms;Improving+desktop+software%2C+one+feature+at+a+time" alt="Building with Python and Java · Game AI and algorithms · Desktop software" />
+<strong>Computer Science Specialist student at the University of Toronto</strong><br/>
+Honours Bachelor of Science · Expected graduation 2029 · Toronto, Canada
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/A-rian?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_projects-1f6feb?style=flat-square&logo=github&logoColor=white" alt="Explore my projects" /></a>
+<a href="https://www.linkedin.com/in/arian-mahlooji"><img src="https://img.shields.io/badge/LinkedIn-Arian_Mahlooji-0A66C2?style=flat-square" alt="Connect with Arian Mahlooji on LinkedIn" /></a>
+<a href="https://github.com/A-rian?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-24292f?style=flat-square&logo=github&logoColor=white" alt="Explore my GitHub repositories" /></a>
 
 </div>
 
-## 👋 About me
+## About
 
-I build projects in **Python and Java**, exploring algorithms, game AI, and practical software development through coursework and hands-on projects.
+I'm a Computer Science student at the University of Toronto, working with **Python, Java, and R** to build software, explore algorithms, and analyze data. My projects span game AI, simulation systems, desktop application development, and reproducible data analysis.
 
-```python
-arian = {
-    "languages": ["Python", "Java"],
-    "projects": ["Recursive Blokus AI Engine", "Sweet Home 3D — Mock Internship"],
-    "focus": ["Game-tree search", "Object-oriented design", "Software maintenance"],
-    "toolkit": ["Git", "GitHub", "Maven", "Plotly"],
-}
-```
+I'm interested in collaborative software projects and technology that supports student communities. Alongside my technical work, I bring experience in digital communication, event coordination, and working with multidisciplinary teams.
 
-## 🧰 Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,git,github,maven&theme=dark" alt="Python, Java, Git, GitHub, Maven" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
-  <img src="https://img.shields.io/badge/Java_Swing-1f6feb?style=flat-square" alt="Java Swing" />
-  <img src="https://img.shields.io/badge/Object--oriented_design-30363d?style=flat-square" alt="Object-oriented design" />
-  <img src="https://img.shields.io/badge/Recursive_algorithms-30363d?style=flat-square" alt="Recursive algorithms" />
-</p>
-
-## 🚀 Featured work
+## Selected projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [Recursive Blokus AI Engine](https://github.com/A-rian/Recursive-Blokus-AI-Engine)
+### [Blokus AI & Game Simulation Engine](https://github.com/A-rian/Recursive-Blokus-AI-Engine)
 
-An AI engine for simplified Blokus using recursive game-tree search and heuristic decision-making.
+Developed an AI system using recursive game-tree search and heuristic evaluation for strategic gameplay. Built a modular simulation framework with configurable strategies, legal move validation, scoring, and automated experiments to compare player performance.
 
-Multiple difficulty levels, automated simulations, and Plotly visualizations to compare scores and win rates.
-
-**Python · Heuristic search · Plotly**
+**Python · Object-oriented design · Heuristic search · Plotly**
 
 </td>
 <td width="50%" valign="top">
 
-### 🏠 [Sweet Home 3D](https://github.com/A-rian/SweetHomeMockInternship)
+### [Sweet Home 3D — Mock Internship](https://github.com/A-rian/SweetHomeMockInternship)
 
-A mock internship extending an established Java desktop application.
+Extended an established Java desktop application through a coursework mock internship. Added furniture description editing, calculated and sortable furniture volume, and printing across viewable levels, using focused issues and pull requests.
 
-Added furniture description editing, sortable furniture volume, and printing across viewable levels through focused issues and pull requests.
+**Java · Swing · Maven · Software maintenance**
 
-**Java · Swing · Maven**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Healthcare Utilization Data Analysis
+
+Analyzed healthcare utilization trends through data cleaning, transformation, exploratory analysis, and statistical summaries. Created visualizations and communicated high-level findings using reproducible workflows while preserving dataset confidentiality.
+
+**R · Quarto · ggplot2 · dplyr**
+
+</td>
+<td width="50%" valign="top">
+
+### School Website Development
+
+Designed and developed a school website, gaining hands-on experience with website structure, digital content organization, and web development.
+
+**Web development · Content organization**
 
 </td>
 </tr>
 </table>
 
-## 🔭 What I'm exploring
+## Technical skills
 
-- **Game AI:** recursive search, heuristic evaluation, and simulation analysis.
-- **Software design:** organizing code with clear object-oriented abstractions.
-- **Existing codebases:** understanding application behavior and implementing focused improvements.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,r,git,github,maven&theme=dark" alt="Python, Java, R, Git, GitHub, Maven" />
+</p>
+
+| Area | Skills & tools |
+| --- | --- |
+| Programming | Python, Java, R, SQL basics |
+| Software development | Data structures, algorithms, object-oriented programming, software design, debugging, testing |
+| AI & simulation | Game trees, heuristic search, state-space search, simulation systems |
+| Data & visualization | Plotly, ggplot2, dplyr, Quarto |
+| Development tools | Git, GitHub, Maven |
+| Systems | Computer organization, Windows, macOS, PC assembly, hardware troubleshooting |
+
+## Education
+
+**University of Toronto — Honours Bachelor of Science**  
+Computer Science Specialist · Expected graduation: **2029**  
+**GPA: 3.77/4.00 · Dean's List**
+
+Relevant coursework: Software Design (Java), Data Structures & Algorithms, Theory of Computation, Computer Organization, Probability & Statistics, and Multivariable Calculus.
+
+## Experience & leadership
+
+- **UNU-INWEH — Social Outreach Volunteer:** Supported online content organization, digital workflows, and web-based communication in collaboration with multidisciplinary teams.
+- **Persian Club — Executive Member:** Helped organize student events, contributing to a **2× increase in attendance** and approximately **50% lower event costs** through improved planning and sourcing.
+- **Tirgan Festival — Zone Monitoring Volunteer:** Supported event operations and guided **200+ visitors**, collaborating with organizers and volunteers to keep activities running smoothly.
 
 ---
 
 <p align="center">
-  <a href="https://github.com/A-rian?tab=repositories">Browse all my repositories →</a>
+  Interested in collaborating? <a href="https://www.linkedin.com/in/arian-mahlooji">Connect with me on LinkedIn</a>.
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:357abd,50:163d70,100:0d1117&height=90&section=footer" width="100%" alt="" />
