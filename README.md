@@ -24,6 +24,8 @@ I'm interested in **backend engineering and API integration**, building on hands
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge" alt="Assembly" />
+  <img src="https://img.shields.io/badge/MIPS-163D70?style=for-the-badge" alt="MIPS" />
   <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5" />
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
   <img src="https://img.shields.io/badge/Hypothesis-6C63FF?style=for-the-badge" alt="Hypothesis" />
@@ -32,7 +34,7 @@ I'm interested in **backend engineering and API integration**, building on hands
   <img src="https://img.shields.io/badge/dplyr-1A6F8A?style=for-the-badge" alt="dplyr" />
 </p>
 
-**Languages:** Java · Python · C · R · SQL basics  
+**Languages:** Java · Python · C · Assembly (MIPS) · R · SQL basics  
 **Engineering:** Object-oriented design · Data structures & algorithms · JSON processing · Unit & property-based testing  
 **Applications & data:** Swing · Heuristic search · Statistical analysis · Quarto
 
