@@ -20,12 +20,11 @@ I'm interested in **backend engineering and API integration**, building on hands
 ## Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,r,git,github,maven&theme=dark&perline=7" height="64" alt="Java, Python, C, R, Git, GitHub, Maven" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,r,git,github,maven&theme=dark&perline=7" height="48" alt="Java, Python, C, R, Git, GitHub, Maven" />
+  <img src="./assets/assembly-mips.svg" height="48" alt="Assembly and MIPS" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge" alt="Assembly" />
-  <img src="https://img.shields.io/badge/MIPS-163D70?style=for-the-badge" alt="MIPS" />
   <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5" />
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
   <img src="https://img.shields.io/badge/Hypothesis-6C63FF?style=for-the-badge" alt="Hypothesis" />
